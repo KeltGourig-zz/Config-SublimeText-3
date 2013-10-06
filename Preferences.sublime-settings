@@ -1,11 +1,12 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night-Eighties.tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Color/Tomorrow-Night-Eighties.tmTheme",
 	"font_face": "Inconsolata",
 	"font_size": 10,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"theme": "Nexus.sublime-theme",
+	"theme": "Minimal.sublime-theme",
 	"word_wrap": true
 }
